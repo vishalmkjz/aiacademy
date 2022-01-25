@@ -1,0 +1,2 @@
+# aiacademy
+For study purpose.
